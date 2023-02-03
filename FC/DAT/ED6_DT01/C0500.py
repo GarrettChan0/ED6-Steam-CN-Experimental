@@ -2195,7 +2195,7 @@ def func_0A_179D():
     Talk(
         (
             (TxtCtl.SetColor, 0x5),
-            '宝箱里什么东西都没有1。',
+            '你往宝箱里面看了！因此你的实地研修失败了……开个玩笑。',
             (TxtCtl.SetColor, 0x0),
             TxtCtl.Enter,
         ),
@@ -2687,7 +2687,7 @@ def func_0E_2356():
     Talk(
         (
             (TxtCtl.SetColor, 0x5),
-            '宝箱里什么东西都没有。',
+            '宝箱里什么东西都没有……因为你的所作所为。做得好，英雄。',
             (TxtCtl.SetColor, 0x0),
             TxtCtl.Enter,
         ),
