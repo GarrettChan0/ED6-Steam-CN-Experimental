@@ -2195,7 +2195,7 @@ def func_0A_179D():
     Talk(
         (
             (TxtCtl.SetColor, 0x5),
-            '宝箱里什么东西都没有。',
+            '宝箱里什么东西都没有1。',
             (TxtCtl.SetColor, 0x0),
             TxtCtl.Enter,
         ),
